@@ -53,12 +53,17 @@ export default function Home() {
   const noButtonTexts = [
     "Nej",
     "Säker?",
-    "Tänk igen!",
-    "Verkligen?",
+    "Om du får kli då?",
+    "Vafan",
     "Hmm...",
     "Hehe",
-    "Kan inte!",
+    "Taski!",
     "Nope!",
+    "Har du kul?",
+    "Ge upp!",
+    "Snälla?",
+    "Tryck Ja ist",
+    "Okej stopp",
     "♥",
   ];
 
