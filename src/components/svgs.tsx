@@ -1,7 +1,8 @@
-export function HeartSVG({ className = "" }: { className?: string }) {
+export function HeartSVG({ className = "", style }: { className?: string; style?: React.CSSProperties }) {
   return (
     <svg
       className={className}
+      style={style}
       viewBox="0 0 100 100"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
